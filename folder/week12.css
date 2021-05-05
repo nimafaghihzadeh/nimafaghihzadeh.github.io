@@ -1,0 +1,45 @@
+.boxes {
+    height: 20ex;
+    width: 20ex;
+    border: 2px solid black;
+}
+#boxone {
+    background-color: yellow;
+
+}
+#boxtwo {
+    background-color: purple;
+}
+/*ft*
+#q1::after {
+    content: "\f590";
+}
+#q1:hover {
+    font-size: 50px;
+    cursor: pointer;
+    color: chartreuse;
+    transition: 1.5s;
+}
+#q1 {
+    font-size: 80px;
+    color: cyan;
+}
+/*/
+#q2 {
+    font-size: 80px;
+    color: deeppink;
+}
+#q2:hover {
+    font-size: 50px;
+    cursor: pointer;
+    color: chartreuse;
+    transition: 1.5s;
+}
+#q1 {
+    font-size: 80px;
+    color: cyan;
+}
+#q1:hover:before {
+    content:"\f1e4";
+  }
+
